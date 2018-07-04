@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-keep-alive.iml" filepath="$PROJECT_DIR$/spring-keep-alive.iml" />
       <module fileurl="file://$PROJECT_DIR$/sse/sse.iml" filepath="$PROJECT_DIR$/sse/sse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sse/sse.iml" filepath="$PROJECT_DIR$/sse/sse.iml" />
     </modules>
   </component>
 </project>
